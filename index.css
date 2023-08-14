@@ -1,0 +1,190 @@
+.image-37-icon {
+  position: absolute;
+  top: 7.06rem;
+  left: 0;
+  width: 53.5rem;
+  height: 40.63rem;
+  object-fit: cover;
+}
+.log-in-page-child {
+  position: absolute;
+  top: 0;
+  left: 20.5rem;
+  width: 69.5rem;
+  height: 64rem;
+}
+.log-in-page-item {
+  position: absolute;
+  top: 5.41rem;
+  left: 45.59rem;
+  border-radius: 50px;
+  width: 36.81rem;
+  height: 53.19rem;
+}
+.log-in-page-inner {
+  position: absolute;
+  top: 32.63rem;
+  left: 57.25rem;
+  border-radius: 70px;
+  background-color: #ffcb42;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 13.75rem;
+  height: 4.19rem;
+}
+.rectangle-input {
+  border: 1px solid #fff;
+  top: 16.25rem;
+  left: 52rem;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 24.19rem;
+  height: 4.19rem;
+}
+.log-in-page-child1,
+.rectangle-button,
+.rectangle-input {
+  background-color: #fffcf3;
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.log-in-page-child1 {
+  border: 1px solid #fff;
+  top: 23.13rem;
+  left: 52rem;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 24.19rem;
+  height: 4.19rem;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  top: 40.44rem;
+  left: 49.06rem;
+  border-radius: 20px;
+  width: 29.88rem;
+  height: 6.63rem;
+}
+.log-in-with {
+  position: absolute;
+  top: 42.81rem;
+  left: 54.31rem;
+  font-weight: 500;
+  color: #000;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 20.5rem;
+}
+.log-in,
+.log-in-page-child2 {
+  cursor: pointer;
+  position: absolute;
+}
+.log-in {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 34.06rem;
+  left: 61.81rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: Inter;
+  color: #000;
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 4.38rem;
+}
+.log-in-page-child2 {
+  top: 29rem;
+  left: 52rem;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1.25rem;
+  height: 1.31rem;
+}
+.remeber-me {
+  position: absolute;
+  top: 28.94rem;
+  left: 53.31rem;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 10.5rem;
+  height: 1.69rem;
+}
+.enter-password,
+.enter-username {
+  position: absolute;
+  top: 24.75rem;
+  left: 53.69rem;
+  text-align: left;
+}
+.enter-username {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 17.44rem;
+  font-size: 1.5rem;
+  font-family: Inter;
+  color: #ffcb42;
+  display: inline-block;
+}
+.forgot-password {
+  text-decoration: none;
+  position: absolute;
+  top: 29rem;
+  left: 66.75rem;
+  color: inherit;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  width: 13.19rem;
+  height: 1.69rem;
+}
+.sign-up {
+  color: #000;
+}
+.dont-have-account-container {
+  text-decoration: none;
+  position: absolute;
+  top: 54.56rem;
+  left: 53.94rem;
+  color: inherit;
+}
+.dashboard-login {
+  position: absolute;
+  top: 8.5rem;
+  left: 51.75rem;
+  font-size: 3rem;
+  display: flex;
+  text-align: left;
+  align-items: flex-end;
+  width: 25.25rem;
+  height: 4.19rem;
+}
+.log-in-page {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #ffcb42;
+  font-family: Inter;
+}
+
+.google
+{
+  padding-right: 1rem;
+  padding-top: 1rem;
+  height: 1.5rem;
+  width: 1.5rem;
+
+}
